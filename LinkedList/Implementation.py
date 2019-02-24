@@ -51,3 +51,10 @@ SinglyList.traverse()
 SinglyList.removeDuplicates()
 print("---------------------------------------")
 SinglyList.traverse()
+
+print("---------------------------------------")
+print("---------------------------------------")
+print("---------------------------------------")
+print("---------------------------------------")
+print(SinglyList.findElemByNodeValue("Saturday"))
+

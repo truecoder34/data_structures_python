@@ -1,4 +1,6 @@
-# define NODE class - elem of singly linked list
+'''
+    define NODE class - elem of singly linked list
+'''
 class Node:
     # constructor of NODE
     def __init__(self, val):
